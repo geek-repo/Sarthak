@@ -13,6 +13,7 @@ I am a security researcher who loves to automate and upload them on  [GitHub](ht
   - [Md5Smasher](https://github.com/geek-repo/Md5-Smasher) : Crack md5 hashes on realtime basis(rainbow tables) (API)
   - [Hexor-Trexor](https://github.com/geek-repo/Hexor-Trexor): Decrypt md5,sha1,sha256,sha512 on rainbow table basis (Program)
   - [NodeJs-Crawler](https://github.com/geek-repo/NodeJs-crawler): Spider the internet from one provided host
+  - [C2 Server](https://github.com/geek-repo/C2-Server) : Python based C2 with a beacon server to route traffic 
 
 ## Programming Languages
   - Python
@@ -21,6 +22,7 @@ I am a security researcher who loves to automate and upload them on  [GitHub](ht
   - Asm(x86)
   - PHP
   - Javascript
+  - Go
   
 ## Interests
   - Automation
