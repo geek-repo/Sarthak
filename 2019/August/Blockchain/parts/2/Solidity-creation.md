@@ -1,6 +1,6 @@
 # PART 2 - Series of Creating Blockchain based C2
 
-**Links Which would be necessary for this Section of series **
+**Links Which would be necessary for this Section of series**
 
 * [Remix](https://remix.ethereum.org/)
 * [Dapp University](https://www.youtube.com/watch?v=MnSmc7Hto2k&list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu)
