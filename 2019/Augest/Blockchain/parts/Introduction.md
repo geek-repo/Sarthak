@@ -1,4 +1,8 @@
-# Introduction To Blockchain
+# PART 1 - Series of Creating Blockchain based C2 
+
+**Note:- This Part will be Full theoretical Section of Blockchain in reference to Bitcoin.**
+
+## Introduction To Blockchain
 
 You guys must have heard a lot about Blockchain and it's relation with bitcoin and i know  there are a lot of better articles about explanation over this topic so I'll just go over the concepts we need to make our C2 powered on Blockchain.
 
@@ -22,7 +26,7 @@ These are the piece of data which has information like:-
 
 Transactions contains all the information required by the nodes (Explained later in post) But before passing the Transaction The Wallet will use the private key of wallet owner which is then called a `Digitally Signed transaction` and then it will be broadcast to all the nodes in the network attached with the public key of sender.
 
-![](/home/sarthak/Desktop/Alldata/blog/encrypt.png)
+![](encrypt.png)
 
 
 
@@ -85,7 +89,7 @@ This is a variable which will be incremented by the miners to find the hash whic
 
 So the hash would be calculated by [proof of work](https://en.bitcoin.it/wiki/Proof_of_work) Function and bitcoin uses [this](https://en.bitcoin.it/wiki/Hashcash) function for calculations.
 
-![](/home/sarthak/Desktop/Alldata/blog/blocks.png)
+![](blocks.png)
 
 ### Block Body
 
@@ -99,7 +103,7 @@ The transactions in a block are not just in a list, but in a so-called Merkle Tr
 
 A node is a device on the blockchain network which will be the one who solves those block hashes and push the block on blockchain.
 
-![](/home/sarthak/Desktop/Alldata/blog/blocks-nodes.png)
+![](blocks-nodes.png)
 
 Basically nodes provide their computational power to calculate the hash and in return they get rewards as well as miners also takes fees to solve the hashes.
 
@@ -125,8 +129,9 @@ Smart contracts are basically like a protocol which handles transactions or mone
 
 
 
-![](/home/sarthak/Desktop/Alldata/blog/smartcontractexplainer.jpg) 
+![](smartcontractexplainer.jpg) 
 
+For more on [Smart Contracts](https://blockgeeks.com/guides/smart-contracts/)
 
 
 Now we will explore the solidity language in PART 2 which will be then used to create a handler logic for our C2 server.
