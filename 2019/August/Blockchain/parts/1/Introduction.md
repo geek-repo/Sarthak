@@ -134,4 +134,4 @@ Smart contracts are basically like a protocol which handles transactions or mone
 For more on [Smart Contracts](https://blockgeeks.com/guides/smart-contracts/)
 
 
-Now we will explore the solidity language in PART 2 which will be then used to create a handler logic for our C2 server.
+Part 2 is available at [here](/2019/August/Blockchain/parts/2/Solidity-creation.html)
