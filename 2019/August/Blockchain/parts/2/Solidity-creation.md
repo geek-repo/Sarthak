@@ -208,7 +208,7 @@ For better understanding please check out Solidity Tutorial at Dapp University w
 
 ## Events
 
-Events are basically logging mechanism which triggers a signals which would give a notification to the listening party basically it means it's just like how we subscribed to some email notification whenever your fav youtuber uploads a video in which he gives reaction to tiktok videos.
+Events are basically logging mechanism which triggers a signals which would give a notification to the listening party basically it means it's just like how you subscribed to some email notification or like whenever your fav youtuber uploads a video in which he gives reaction to tiktok videos.
 
 
 
