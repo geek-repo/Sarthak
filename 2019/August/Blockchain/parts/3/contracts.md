@@ -136,7 +136,7 @@ Things to note here :-
 
 * **gas** :- this specifies the maximum limit which can be set on transaction it is set by specific blockchain platform.
 
-* **gas price **:- amount of Ether you’re willing to pay for every unit of gas, and is usually measured in *Gwei*. An analogy for gas price.
+* **gas price**:- amount of Ether you’re willing to pay for every unit of gas, and is usually measured in *Gwei*. An analogy for gas price.
 
   
 
