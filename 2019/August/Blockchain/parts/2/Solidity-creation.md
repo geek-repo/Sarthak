@@ -227,3 +227,5 @@ Whatever is passed in argument will be logged and sent the argument value to eve
 <br/>
 
 In part 3 we will start building our event and smart contract for our c2.
+
+part 3 is [here](/2019/August/Blockchain/parts/3/contracts.html)
