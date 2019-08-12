@@ -252,3 +252,5 @@ And the output on ganache would be like this :-
 ![](output.png)
 
 Our first block in our blockchain has been created, In next part we will discuss about interactions with functions and events.
+
+Part 4 is [here](/2019/August/Blockchain/parts/4/functions-events.html)
