@@ -12,3 +12,4 @@
 - [Part 1 Introduction](/2019/August/Blockchain/parts/1/Introduction.html)
 - [Part 2 Solidity Creation](2019/August/Blockchain/parts/2/Solidity-creation.html)
 - [Part 3 Contract Deployment with python](/2019/August/Blockchain/parts/3/contracts.html)
+- [Part 4 Functions and Events](/2019/August/Blockchain/parts/4/functions-events.html)
