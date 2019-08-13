@@ -14,6 +14,7 @@ I am a security researcher who loves to automate and upload them on  [GitHub](ht
   - [Hexor-Trexor](https://github.com/geek-repo/Hexor-Trexor): Decrypt md5,sha1,sha256,sha512 on rainbow table basis (Program)
   - [NodeJs-Crawler](https://github.com/geek-repo/NodeJs-crawler): Spider the internet from one provided host
   - [C2 Server](https://github.com/geek-repo/C2-Server) : Python based C2 with a beacon to keep attacker's ip from getting exposed
+  - [Blockchain based C2](https://github.com/geek-repo/C2-Blockchain) : Smart contracts based c2 implemented over Ethereum
 
 ## Programming Languages
   - Python
