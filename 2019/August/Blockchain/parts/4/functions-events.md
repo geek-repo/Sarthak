@@ -383,3 +383,5 @@ We are also printing the contract address so that we can copy paste the address 
 ![](finalscripts.png)
 
 I hope now you guys can think how will be going to utilise all of these to get ourselves a c2 now the main c2 will be discussed in last part 5
+
+Part 5 is [here](/2019/August/Blockchain/parts/5/End-Game.html)
