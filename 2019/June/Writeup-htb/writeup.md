@@ -57,7 +57,7 @@ Now we got a new directory named 'writeup' and i am using a really awesome exten
 <br/>
 
 Now i found a blind time based sql injection whose exploit code is available 
- - [here](https://www.exploit-db.com/exploits/46635)
+ - [here](https://www.exploit-db.com/exploits/46635) also edit the exploit and increase the time variable to 5 for more accurate results.
 
 <br/>
 
