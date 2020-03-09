@@ -6,6 +6,8 @@
   - [Luke (HTB)](/2019/may/Luke/Writeup.html)
   - [Swagshop (HTB)](/2019/may/swagshop/writeup.html)
   - [Writeup (HTB)](/2019/June/Writeup-htb/writeup.html)
+  - [Haystack (HTB)](/2019/June/Haystack-htb/writeup.html)
+  - [Jarvis (HTB)](/2019/June/Jarvis-htb/Writeup.html)
 
 ## AWAE/OSWE Prep
 - [XSS-RCE With Code analysis](/2019/awae/xss-rce.html)
