@@ -5,6 +5,7 @@ I am a security researcher who loves to automate and upload them on  [GitHub](ht
 ## Certifications
   - OSCP (2018)
   - CEH  (2017)
+  - OSWE (2020)
 
 ## Projects
   - [flask-bin](https://github.com/geek-repo/flask-bin) :  A Fast and simple service to share texts for limited period of time 
