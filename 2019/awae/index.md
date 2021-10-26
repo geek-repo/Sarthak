@@ -1,3 +1,4 @@
 <html>
-<script>alert(1)</script>
+<script>alert(window.location)</script>
+<script>alert(document.cookie)</script>
 </html>
