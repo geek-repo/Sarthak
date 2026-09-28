@@ -3,9 +3,14 @@
 I am a security researcher who loves to automate and upload them on  [GitHub](https://github.com/geek-repo/) and I love to do capture the flag challeneges from Hack the Box and Root-me.
 
 ## Certifications
-  - OSCP (2018)
-  - CEH  (2017)
-  - OSWE (2020)
+  - OSCP  
+  - OSWE 
+  - OSAI
+  - OSEP
+  - CRTP
+  - CRTE
+  - CRTM
+  - CRTO
 
 ## Projects
   - [flask-bin](https://github.com/geek-repo/flask-bin) :  A Fast and simple service to share texts for limited period of time 
